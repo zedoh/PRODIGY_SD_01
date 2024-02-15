@@ -3,6 +3,8 @@ A simple GUI Temperature Converter Application made using c++, qt6.
 
 ---
 # 📸 Screenshot
+
+![temperatureconverter2](/res/tempconverter2.png) 
 ![temperature converter gui](/res/Temperature%20Converter.png)
 
 # 🚀 Usage

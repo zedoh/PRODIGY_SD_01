@@ -1,0 +1,10 @@
+# ninja log v5
+1	197	7297047460423753	TemperatureConverter_autogen/timestamp	af10a5ce1886f488
+1	197	7297047460423753	TemperatureConverter_autogen/mocs_compilation.cpp	af10a5ce1886f488
+1	197	7297047460423753	C:/Programming/first GUI App/build-TemperatureConverter-Desktop_Qt_6_6_1_MinGW_64_bit-Release/TemperatureConverter_autogen/timestamp	af10a5ce1886f488
+1	197	7297047460423753	C:/Programming/first GUI App/build-TemperatureConverter-Desktop_Qt_6_6_1_MinGW_64_bit-Release/TemperatureConverter_autogen/mocs_compilation.cpp	af10a5ce1886f488
+197	274	7297047461760882	CMakeFiles/TemperatureConverter.dir/TemperatureConverter_autogen/mocs_compilation.cpp.obj	2733cafc0d75cc65
+207	1449	7297047473505399	CMakeFiles/TemperatureConverter.dir/tempconverter.cpp.obj	9f1c7d3aa5bfc36e
+220	2543	7297047484359075	CMakeFiles/TemperatureConverter.dir/main.cpp.obj	7559322dcfffc196
+202	2682	7297047485751721	CMakeFiles/TemperatureConverter.dir/tempwidget.cpp.obj	638cf5f30bcf002f
+2683	2885	7297047487804221	TemperatureConverter.exe	56c2880d876b8f17

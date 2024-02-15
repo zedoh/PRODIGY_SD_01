@@ -1,0 +1,9 @@
+C:/Programming/first GUI App/build-TemperatureConverter-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/TemperatureConverter.dir
+C:/Programming/first GUI App/build-TemperatureConverter-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Programming/first GUI App/build-TemperatureConverter-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Programming/first GUI App/build-TemperatureConverter-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/Programming/first GUI App/build-TemperatureConverter-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/Programming/first GUI App/build-TemperatureConverter-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/Programming/first GUI App/build-TemperatureConverter-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/Programming/first GUI App/build-TemperatureConverter-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/TemperatureConverter_autogen_timestamp_deps.dir
+C:/Programming/first GUI App/build-TemperatureConverter-Desktop_Qt_6_6_1_MinGW_64_bit-Release/CMakeFiles/TemperatureConverter_autogen.dir

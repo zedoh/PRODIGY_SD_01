@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-e8b575f3881e531e9991.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TemperatureConverter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TemperatureConverter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemperatureConverter-Release-8a8dc8c304ce775118ac.json",
+					"name" : "TemperatureConverter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TemperatureConverter_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemperatureConverter_autogen-Release-da264504f714a5c95113.json",
+					"name" : "TemperatureConverter_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TemperatureConverter_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemperatureConverter_autogen_timestamp_deps-Release-1b394d3edb50beb089fa.json",
+					"name" : "TemperatureConverter_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Programming/first GUI App/build-TemperatureConverter-Desktop_Qt_6_6_1_MinGW_64_bit-Release",
+		"source" : "C:/Programming/guiapp/TemperatureConverter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

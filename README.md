@@ -1,12 +1,14 @@
-# PRODIGY_SD_02
+# Overview
 A simple GUI Temperature Converter Application made using c++, qt6.
 
 ---
 # 📸 Screenshot
+<p align="center">
+  <img src="/res/tempconverter2.png" width="400" />
+  <img src="/res/Temperature%20Converter.png" width="400" /> 
+</p>
 
-![temperatureconverter2](/res/tempconverter2.png) 
-![temperature converter gui](/res/Temperature%20Converter.png)
-
+---
 # 🚀 Usage
 - run the `TemperatureConverter.exe` file using the following command
     ```bash
